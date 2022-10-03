@@ -39,6 +39,11 @@ namespace CROSSOVER_API.Controllers
 
                 var resp = JsonConvert.DeserializeObject<CreateUsuarioModel.SAL_RESP>(response.Content);
 
+                if (resp == null)
+                {
+                    return StatusCode(System.Net.HttpStatusCode.InternalServerError);
+                }
+
                 return Ok(resp);
             }
             catch (Exception e)
@@ -74,6 +79,11 @@ namespace CROSSOVER_API.Controllers
                 IRestResponse response = client.Execute(request);
 
                 var resp = JsonConvert.DeserializeObject<IniciarSesionModel.SAL_RESP>(response.Content);
+
+                if (resp == null)
+                {
+                    return StatusCode(System.Net.HttpStatusCode.InternalServerError);
+                }
 
                 return Ok(resp);
             }
