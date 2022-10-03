@@ -7,7 +7,7 @@ namespace CROSSOVER_API.Models
 {
     public class IniciarSesionModel
     {
-        public class dataSesion
+        public class data
         {
             public string email { get; set; }
             public int password { get; set; }
@@ -15,16 +15,16 @@ namespace CROSSOVER_API.Models
 
         }
 
-        public class SAL_Header
+        public class SAL_RESP
         {
             public string id { get; set; }
             public int code { get; set; }
             public string message { get; set; }
-            public SAL_Body data { get; set; }
+            public SAL_RESP_INICIOSESION data { get; set; }
 
         }
 
-        public class SAL_Body
+        public class SAL_RESP_INICIOSESION
         {
             public string id { get; set; }
             public  int  Id { get; set; }

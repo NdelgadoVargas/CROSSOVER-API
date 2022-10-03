@@ -89,3 +89,14 @@ C:\Users\nicol\OneDrive\Escritorio\Servicio API-REST\CROSSOVER_API\CROSSOVER_API
 C:\Users\nicol\OneDrive\Escritorio\Servicio API-REST\CROSSOVER_API\CROSSOVER_API\obj\Debug\CROSSOVER_API.pdb
 C:\Users\nicol\OneDrive\Escritorio\Servicio API-REST\CROSSOVER_API\CROSSOVER_API\bin\RestSharp.Serializers.Newtonsoft.Json.dll
 C:\Users\nicol\OneDrive\Escritorio\Servicio API-REST\CROSSOVER_API\CROSSOVER_API\obj\Debug\CROSSOVER_API.csproj.AssemblyReference.cache
+C:\Users\nicol\OneDrive\Escritorio\Servicio API-REST\CROSSOVER_API\CROSSOVER_API\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\nicol\OneDrive\Escritorio\Servicio API-REST\CROSSOVER_API\CROSSOVER_API\bin\System.Web.Helpers.dll
+C:\Users\nicol\OneDrive\Escritorio\Servicio API-REST\CROSSOVER_API\CROSSOVER_API\bin\System.Web.Razor.dll
+C:\Users\nicol\OneDrive\Escritorio\Servicio API-REST\CROSSOVER_API\CROSSOVER_API\bin\System.Web.WebPages.Deployment.dll
+C:\Users\nicol\OneDrive\Escritorio\Servicio API-REST\CROSSOVER_API\CROSSOVER_API\bin\System.Web.WebPages.dll
+C:\Users\nicol\OneDrive\Escritorio\Servicio API-REST\CROSSOVER_API\CROSSOVER_API\bin\System.Web.WebPages.Razor.dll
+C:\Users\nicol\OneDrive\Escritorio\Servicio API-REST\CROSSOVER_API\CROSSOVER_API\bin\System.Web.Helpers.xml
+C:\Users\nicol\OneDrive\Escritorio\Servicio API-REST\CROSSOVER_API\CROSSOVER_API\bin\System.Web.Razor.xml
+C:\Users\nicol\OneDrive\Escritorio\Servicio API-REST\CROSSOVER_API\CROSSOVER_API\bin\System.Web.WebPages.xml
+C:\Users\nicol\OneDrive\Escritorio\Servicio API-REST\CROSSOVER_API\CROSSOVER_API\bin\System.Web.WebPages.Deployment.xml
+C:\Users\nicol\OneDrive\Escritorio\Servicio API-REST\CROSSOVER_API\CROSSOVER_API\bin\System.Web.WebPages.Razor.xml
